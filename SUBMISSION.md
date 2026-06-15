@@ -13,7 +13,7 @@ cd web && npm install && npm run dev   # app on http://localhost:5173 (Vite defa
 Node version: [e.g. 20.x] · Anything else we should know to run it: [v24.15.0]
 
 ## What I built
-- [Which of the tasks you completed: overview / segments list / detail / create-edit
+- [Which of the tasks you completed: overview / segments list / detail / create-edit]
 
 * Overview with header ,cards ,2 chart and one filterable pagination table
 * segment details by clicking on an eye icon in segments table
